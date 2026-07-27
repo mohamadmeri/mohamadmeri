@@ -98,14 +98,3 @@ I am a Software Engineer specializing in backend architecture, data engineering,
 - 📚 Deepening expertise in distributed tracing (LangSmith) and serverless vector databases for autonomous agent architectures.
 
 <br>
-
-### 📊 Dynamic Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmeri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamad's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mohamadmeri&theme=github-dark&hide_border=true" alt="Mohamad's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmeri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
