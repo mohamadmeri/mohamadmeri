@@ -9,9 +9,8 @@
 
 <p align="center">
   <a href="https://mohamadmeri.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://scrygent.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo:_Scrygent-1389FE?style=for-the-badge&logo=netlify&logoColor=white" alt="Scrygent Demo"></a>
   <a href="https://linkedin.com/in/mohamadmeri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mohamad-meri@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:mohamad-meri@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
@@ -84,11 +83,11 @@ I am a Software Engineer specializing in backend architecture, data engineering,
 * **Metrics:** Analyzed 1,880 substitution events and proved 80.9% of substitutions were cost-saving. Identified a Pareto concentration where just 3 machines drove 92% of machine-attributed cost increases. This completely reframed the client strategy.
 * **Core Stack:** `Python` `Pandas` `openpyxl` `Plotly` `Cloudflare Pages`
 
-#### 🏗️ [Styx: Enterprise-Grade Periodization Engine](https://github.com/mohamadmeri/styx) *(WIP)*
+#### 🏗️ Styx: Enterprise-Grade Periodization Engine *(WIP)*
 *The Problem:* Fitness applications typically rely on basic CRUD patterns that fail at scale, lack data integrity, and are difficult to test.
 * **System Architecture:** Architecting a strict Hexagonal Architecture using a Service-Repository pattern. Features a Pydantic Firewall for mass-assignment prevention and NIST-aligned security with HaveIBeenPwned k-anonymity checks. 
 * **Data Integrity:** Implemented GDPR-compliant soft-delete anonymization to preserve historical analytics while removing PII. Utilized an Extensible Catalog Pattern to seamlessly merge global system defaults with user-generated custom items.
-* **Status:** Currently undergoing a major local refactor to the modern Python ecosystem (APIFlask, `uv`, Python 3.13). The live GitHub repo reflects the legacy state and the modernized architecture will be pushed upon completion.
+* **Status:** Currently undergoing a major local refactor to the modern Python ecosystem (APIFlask, `uv`, Python 3.13). The modernized architecture will be pushed to my primary GitHub upon completion.
 * **Core Stack:** `Python` `APIFlask` `SQLAlchemy 2.0` `Pydantic V2` `Hypothesis` `Pytest`
 
 <br>
@@ -103,10 +102,10 @@ I am a Software Engineer specializing in backend architecture, data engineering,
 ### 📊 Dynamic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmeri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamad's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmeri&theme=radical&hide_border=true&background=0D1117" alt="Mohamad's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmeri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamad's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mohamadmeri&theme=github-dark&hide_border=true" alt="Mohamad's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmeri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmeri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
