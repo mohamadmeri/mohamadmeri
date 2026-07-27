@@ -1,110 +1,112 @@
-<div align="center">
-  <h1>Mohamad Meri</h1>
-  <h3>Backend & Data Engineer | Python Architecture, AI Agents, and ETL Pipelines</h3>
-  <p>📍 Currently based in Beirut, Lebanon • Open to relocation.</p>
-  
-  <a href="https://linkedin.com/in/mohamadmeri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://mohamadmeri.pages.dev">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mohamad-meri@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-</div>
+<p align="center">
+  <h1 align="center">Mohamad Meri</h1>
+  <h3 align="center">Software Engineer | Backend & AI Systems Architect</h3>
+  <p align="center">
+    <em>Building robust and scalable systems, not brittle scripts.</em><br>
+    📍 Beirut, Lebanon | 🌍 Open to Global Remote & Relocation
+  </p>
+</p>
 
----
+<p align="center">
+  <a href="https://mohamadmeri.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://scrygent.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo:_Scrygent-1389FE?style=for-the-badge&logo=netlify&logoColor=white" alt="Scrygent Demo"></a>
+  <a href="https://linkedin.com/in/mohamadmeri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohamad-meri@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### 👨‍💻 About Me
+<br>
 
-Software Engineer with ~4 years of professional experience focusing on backend development, data engineering, and autonomous AI agents. I build cleanly designed, production grade systems instead of quick scripts. 
+### 👋 About Me
+I am a Software Engineer specializing in backend architecture, data engineering, and autonomous AI systems. My work focuses on translating complex business problems into robust technical solutions. I prioritize strict data validation, clear architectural boundaries, and measurable business impact. Whether I am engineering a deterministic AI compiler or building production ETL pipelines that drive executive strategy, my goal is always to write testable and maintainable code.
 
-My technical approach relies on strict boundaries, data accuracy, and deterministic execution. Whether I am designing a multi stage LLM compiler pipeline that guarantees zero math errors, or architecting a Flask backend with Hexagonal Architecture and property based testing, I prioritize maintainability and business impact. I enjoy taking complex, messy data systems and turning them into reliable software solutions.
+<br>
 
----
+### 🛠️ Tech Stack & Tooling
 
-### 🛠️ Tech Stack Grid
-
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="25%" align="center">
-      <b>Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/><br/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+    <td align="center" width="20%"><b>🧠 Languages</b></td>
+    <td align="center" width="80%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
     </td>
-    <td valign="top" width="25%" align="center">
-      <b>Frameworks</b><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/><br/><br/>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/><br/><br/>
-      <img src="https://img.shields.io/badge/Pydantic_V2-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/><br/><br/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/APIFlask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pydantic_V2-306998?style=flat-square&logo=pydantic&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
-    <td valign="top" width="25%" align="center">
-      <b>Cloud & Databases</b><br/><br/>
-      <img src="https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/><br/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/><br/><br/>
-      <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI & Data</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
-    <td valign="top" width="25%" align="center">
-      <b>Tools & DevOps</b><br/><br/>
-      <img src="https://img.shields.io/badge/uv-DE5DD9?style=flat-square&logo=uv&logoColor=white" alt="uv"/><br/><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/><br/><br/>
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ DevOps</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/uv-FF6B6B?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ruff-FFC107?style=flat-square&logo=ruff&logoColor=black" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mohamadmeri/scrygent"><b>🔹 Scrygent</b></a> &nbsp; <img alt="Status" src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square">
-      <br/><br/>
-      <b>The Problem:</b> Standard LLM agents use unrestricted Python code generation for data analysis. This causes math errors and severe security risks.<br/><br/>
-      <b>Architecture & Challenges:</b> Built a 2 Pass LLM Compiler Pipeline that separates LLM reasoning from JSON syntax formatting. It translates natural language into a strict Pydantic Intermediate Representation (IR), making the LLM act only as a logic planner. A deterministic Pandas and NumPy backend handles all the actual execution. This design cut API token usage by over 50%. I also added dynamic LLM routing to send complex reasoning to large 120B/70B models and strict JSON formatting to smaller 8B models.<br/><br/>
-      <b>Core Stack:</b> Python, LangGraph, Pydantic V2, Pandas, NumPy, LangSmith.
-    </td>
-  </tr>
-  <tr><td><br/></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mohamadmeri/resin-etl"><b>🔹 Resin ETL</b></a> &nbsp; <img alt="Status" src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square">
-      <br/><br/>
-      <b>The Problem:</b> A plastics manufacturer had 8 months of messy Excel workbooks tracking material substitutions, with no way to see if the process was profitable or losing money.<br/><br/>
-      <b>Architecture & Challenges:</b> Built a multi stage Python ETL pipeline that fixed a critical data bug where Excel formatting broke the alignment between substitution logs and blend data. Consolidated 8 monthly workbooks into 7 standard summary tables and deployed 7 interactive Plotly dashboards to Cloudflare Pages.<br/><br/>
-      <b>Metrics:</b> Analyzed 1,880 substitution events, proving an 80.9% cost saving success rate. Found that machines 18, 84, and 38 caused 92% of machine attributed cost increases.<br/><br/>
-      <b>Core Stack:</b> Python, Pandas, NumPy, Plotly, Cloudflare Pages.
-    </td>
-  </tr>
-  <tr><td><br/></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mohamadmeri/styx"><b>🔹 Styx</b></a> &nbsp; <img alt="Status" src="https://img.shields.io/badge/Status-Local_Refactor_WIP-orange?style=flat-square">
-      <br/><br/>
-      <blockquote>Note: Styx is currently undergoing a major local refactor to Hexagonal Architecture. The GitHub repo may not show the latest code temporarily.</blockquote><br/>
-      <b>The Problem:</b> Fitness apps struggle to balance global default data with user custom data without causing database issues or compromising integrity.<br/><br/>
-      <b>Architecture & Challenges:</b> Built a workout periodization engine using Hexagonal (Clean) Architecture and strict boundary enforcement. Created an "Extensible Catalog Pattern" using optimized OR queries and Composite Unique Constraints to merge global defaults with private user items in one database hit. Secured the API boundary with a "Pydantic Firewall" to prevent mass assignment, NIST compliant password hashing, and GDPR compliant account deletion.<br/><br/>
-      <b>Core Stack:</b> Python 3.13, APIFlask, SQLAlchemy 2.0, Pydantic V2, uv, Alembic.
-    </td>
-  </tr>
-</table>
+#### 🧠 [Scrygent: Deterministic Data Compiler & Agentic Analytics](https://scrygent.netlify.app/)
+*The Problem:* Standard ReAct agents hallucinate on numerical computations and pose severe security risks via unbounded code execution.
+* **System Architecture:** Engineered a 2-Pass LLM Compiler that strictly decouples logical reasoning from JSON syntax formatting. The system translates natural language into a strict Pydantic V2 Intermediate Representation (IR). A deterministic Pandas and NumPy backend handles all physical execution. The LLM decides what to compute and the engine decides how.
+* **Zero-Knowledge Profiling:** Built a deterministic pre-flight profiler that extracts regex skeletons, monotonic ID flags, and exact categorical matches. This grounds the LLM in ground-truth data without flooding the context window.
+* **Hermetic State & Safe Math:** Implemented an immutable JSON-safe state boundary using recursive Pydantic validators to scrub C-types into native Python primitives. Replaced unsafe Python `eval()` with `numexpr` for zero-trust mathematical execution.
+* **Self-Healing Execution:** Designed an internal correction chain powered by `difflib`. It traps validation errors, uses fuzzy string matching for high-cardinality data, and feeds actionable tracebacks to an isolated LLM loop to repair payloads mid-flight.
+* **Core Stack:** `Python` `LangGraph` `Pydantic V2` `Pandas` `NumPy` `Qdrant` `Streamlit`
 
----
+#### 🏭 [Resin ETL: Industrial Analytics & Executive BI](https://resin-substitution-analysis-2025.pages.dev)
+*The Problem:* A manufacturing client possessed 8 months of siloed and corrupted operational data with no visibility into material substitution profitability.
+* **System Architecture:** Engineered a multi-stage Python ETL pipeline to ingest, normalize, and validate 8 operational workbooks. Diagnosed and patched a silent data corruption bug in Excel formatting alignment that was destroying 1:1 data mapping. 
+* **Data Modeling:** Designed 7 canonical summary tables and interactive dashboards to provide self-service analytics for non-technical stakeholders.
+* **Metrics:** Analyzed 1,880 substitution events and proved 80.9% of substitutions were cost-saving. Identified a Pareto concentration where just 3 machines drove 92% of machine-attributed cost increases. This completely reframed the client strategy.
+* **Core Stack:** `Python` `Pandas` `openpyxl` `Plotly` `Cloudflare Pages`
+
+#### 🏗️ [Styx: Enterprise-Grade Periodization Engine](https://github.com/mohamadmeri/styx) *(WIP)*
+*The Problem:* Fitness applications typically rely on basic CRUD patterns that fail at scale, lack data integrity, and are difficult to test.
+* **System Architecture:** Architecting a strict Hexagonal Architecture using a Service-Repository pattern. Features a Pydantic Firewall for mass-assignment prevention and NIST-aligned security with HaveIBeenPwned k-anonymity checks. 
+* **Data Integrity:** Implemented GDPR-compliant soft-delete anonymization to preserve historical analytics while removing PII. Utilized an Extensible Catalog Pattern to seamlessly merge global system defaults with user-generated custom items.
+* **Status:** Currently undergoing a major local refactor to the modern Python ecosystem (APIFlask, `uv`, Python 3.13). The live GitHub repo reflects the legacy state and the modernized architecture will be pushed upon completion.
+* **Core Stack:** `Python` `APIFlask` `SQLAlchemy 2.0` `Pydantic V2` `Hypothesis` `Pytest`
+
+<br>
+
+### 🎯 Current Engineering Focus
+- 🔭 Expanding **Scrygent** with advanced Retrieval-Augmented Generation (RAG) and semantic memory replay using Qdrant.
+- 🏗️ Refactoring **Styx** to a modern 2026 Python ecosystem (APIFlask, `uv`, Python 3.13 type parameters).
+- 📚 Deepening expertise in distributed tracing (LangSmith) and serverless vector databases for autonomous agent architectures.
+
+<br>
 
 ### 📊 Dynamic Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmeri&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Mohamad's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmeri&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadmeri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmeri&theme=radical&hide_border=true&background=0D1117" alt="Mohamad's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmeri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
