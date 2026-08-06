@@ -76,7 +76,7 @@ I am a Software Engineer specializing in backend architecture, data engineering,
 * **Self-Healing Execution:** Designed an internal correction chain powered by `difflib`. It traps validation errors, uses fuzzy string matching for high-cardinality data, and feeds actionable tracebacks to an isolated LLM loop to repair payloads mid-flight.
 * **Core Stack:** `Python` `LangGraph` `Pydantic V2` `Pandas` `NumPy` `Qdrant` `Streamlit`
 
-#### 🏭 [Resin ETL: Industrial Analytics & Executive BI](https://resin-substitution-analysis-2025.pages.dev)
+#### 🏭 [Resin ETL: Industrial Analytics & Executive BI](https://mohamadmeri.github.io/material-variance-engine/)
 *The Problem:* A manufacturing client possessed 8 months of siloed and corrupted operational data with no visibility into material substitution profitability.
 * **System Architecture:** Engineered a multi-stage Python ETL pipeline to ingest, normalize, and validate 8 operational workbooks. Diagnosed and patched a silent data corruption bug in Excel formatting alignment that was destroying 1:1 data mapping. 
 * **Data Modeling:** Designed 7 canonical summary tables and interactive dashboards to provide self-service analytics for non-technical stakeholders.
